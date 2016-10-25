@@ -1,3 +1,11 @@
+////////////////////////////////////////////////////////////////////////////////////
+//
+//                               PI and more
+//               ESP8266 connecting to multi available wifi AP
+//
+// https://piandmore.wordpress.com/2016/10/11/esp-and-selecting-wifi-access-point/
+//
+////////////////////////////////////////////////////////////////////////////////////
 //
 // You will of course need to include the ESP8266WiFi.h which
 // will give you access to the WiFi library of the ESP.
